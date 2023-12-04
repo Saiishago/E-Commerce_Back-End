@@ -7,22 +7,23 @@ This application won’t be deployed, a link to the walkthrough video, that demo
 
 ## Links
 
-- Github: [E-Commerce Back-End](https://github.com/Saiishago/E-Commerce_Back-End)
-- Walkthrough Video:
+- Github: [E-Commerce Back-End Repository](https://github.com/Saiishago/E-Commerce_Back-End)
+- Walkthrough Video: [E-Commerce Back-End Walkthrough](https://drive.google.com/file/d/11z5TItN07HrJ0dn3T1woPWLbUr2QYigV/view?usp=sharing)
 
 ## Screenshots
 
-- Application's GET routes
-  [Screenshot GET request]()
+- ### Application's GET routes
+![Screenshot GET request](screenshots/GET:categories.png)
+![Screenshot GET request/specific](screenshots/GET:categories:specific.png)
 
-- Application's POST routes
-  [Screenshot POST request]()
+- ### Application's POST routes
+![Screenshot POST request](screenshots/POST:tags.png)
 
-- Application's PUT routes
-  [Screenshot PUT request]()
+- ### Application's PUT routes
+![Screenshot PUT request](screenshots/PUT:products.png)
 
-- Application's DELETE routes
-  [Screenshot GET request]()
+- ### Application's DELETE routes
+![Screenshot GET request](screenshots/DELETE:tags.png)
 
 ## How It Works
 
